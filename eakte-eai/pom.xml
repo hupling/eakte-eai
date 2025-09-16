@@ -11,7 +11,7 @@
 -->
 	<groupId>de.muenchen.eai</groupId>
 	<artifactId>dms-rest-eai</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>dms-rest-eai</name>
 	<description>This application provides a REST interface for external applications to the DMS</description>
 
@@ -47,7 +47,7 @@
     <scm>
         <connection>scm:git:${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}.git</connection>
         <developerConnection>scm:git:${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>dms-rest-eai-0.0.1</tag>
   </scm>
 
 	<dependencyManagement>
